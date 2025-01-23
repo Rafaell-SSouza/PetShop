@@ -7,5 +7,6 @@
 <br>
 <img width="500" align="center" src="https://github.com/Rafaell-SSouza/PetShop/blob/main/img/Desktop.png?raw=true" />
 <br>
-<img width="590" height="415" src="https://github.com/Rafaell-SSouza/PetShop/blob/main/img/Mobile.png" />
+<br>
+<img width="590" height="415" src="https://github.com/Rafaell-SSouza/PetShop/blob/main/img/HandMobile.png?raw=true" />
 
