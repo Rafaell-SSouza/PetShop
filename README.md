@@ -5,4 +5,4 @@
 <h2>Projeto responsivo e adaptado para Desktop :computer: e mobile :iphone:.</h2 />
 <br>
 <br>
-<img src="https://github.com/Rafaell-SSouza/PetShop/blob/main/img/Desktop%20(1).png?raw=true" />
+<img width="500" align="left" src="https://github.com/Rafaell-SSouza/PetShop/blob/main/img/Desktop%20(1).png?raw=true" />
